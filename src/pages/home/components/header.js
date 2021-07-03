@@ -8,10 +8,10 @@ function Header(){
                     <a href='/'>Conecta Dev - Alteração</a>
                 </div>
                 <div>
-                </div>
                     <button>Novo Post</button>
                     <span>img1</span>
-                    <span>img2</span>
+                    <span>img2 - alteração</span>
+                </div>
             </div>
         </header>
     )
