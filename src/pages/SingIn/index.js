@@ -125,27 +125,6 @@ function SingIn() {
                 </Box>
             </Grid>
         </Grid>
-        // // Flex Container
-        // <div className={classes.root}>
-        //     {/* Flex container */}
-        //     <div className={classes.left}>
-        //         <Typography style={{color: '#fff', fontSize:35, lineHeight:'45px'}}>
-        //             <strong>Simplificando a forma de conectar desenvolvedores de software!</strong>
-        //         </Typography>
-        //         <Typography variant="body2" style={{color:'rgb(255,255,255, 0.7)', marginTop:30, fontSize:15, lineHeight:'30px'}}>
-        //             Compartilhe seu conhecimento com toda nossa rede de desenvolvedores de software.
-        //         </Typography>
-        //     </div>
-        //     {/* Flex item */}
-        //     <div className={classes.right}>
-        //         <form className={classes.form}>
-        //             <h4>Acesso</h4>
-        //             <input type="text"/>
-        //             <input type="text"/>
-        //         </form>
-                
-        //     </div>
-        // </div>
     )
 }
 
